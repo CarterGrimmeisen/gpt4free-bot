@@ -1,6 +1,6 @@
 [project]
-name = ""
-version = ""
+name = "gpt4free_bot"
+version = "0.0.0"
 description = ""
 authors = [
     {name = "Carter Grimmeisen", email = "carter.grimmeisen@uah.edu"},
