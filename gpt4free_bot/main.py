@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 from gpt4free import you
 from playhouse.shortcuts import model_to_dict
 
-from gpt4free_bot.models import DEFAULT_SETTINGS, Settings, SettingsDict, db
+from models import DEFAULT_SETTINGS, Settings, SettingsDict, db
 
 load_dotenv()
 bot = discord.Bot()
